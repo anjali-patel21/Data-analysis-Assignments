@@ -28,3 +28,11 @@ Use SciPy to solve a linear algebra problem.
   1. True or false – carries 4 marks each
   2. Multiple-choice – carries 9 marks each
 - Find the number of true or false and multiple-choice questions.
+
+
+# Assignment 04
+
+Use SciPy to declare 20 random values for random values and perform the following:
+- CDF – Cumulative Distribution Function for a random variable 10
+- PDF – Probability Density Function for a random variable 14.
+
