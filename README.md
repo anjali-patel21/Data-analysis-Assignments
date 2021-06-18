@@ -19,3 +19,12 @@ Evaluate the dataset of the Summer Olympics, London 2012 to:
 - Print the medal tally,
 - Print each country name with the corresponding number of gold medals, and
 - Print each country's name with the total number of medals won.
+
+
+# Assignment 03
+
+Use SciPy to solve a linear algebra problem.
+- There is a test with 30 questions worth 150 marks. The test has two types of questions:
+  1. True or false – carries 4 marks each
+  2. Multiple-choice – carries 9 marks each
+- Find the number of true or false and multiple-choice questions.
